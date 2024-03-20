@@ -1,4 +1,6 @@
-<h1> Charts in R</h1>
+<h1>Charts in R</h1>
+
+> Status: completed ✔️
 
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/da930e17-77ef-474c-baba-6d0d746e2be1)
 ![image](https://github.com/Rafaelse6/r-data-charts/assets/64181619/96e8ff34-90b7-4b77-bebb-7eb86c22a62e)
